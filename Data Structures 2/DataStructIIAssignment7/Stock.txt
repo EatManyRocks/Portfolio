@@ -1,0 +1,31 @@
+Value: Apple
+AAPL
+121.73
+	 Balance Factor: 0Value: Advanced Micro Devices
+AMD
+84.51
+	 Balance Factor: 1Value: Ford Motor
+F
+11.7
+	 Balance Factor: 0Value: General Electric
+GE
+12.54
+	 Balance Factor: 0Value: Intel
+INTC
+60.78
+	 Balance Factor: 0Value: Motorola Inc.
+MOT
+17.49
+	 Balance Factor: 0Value: Microsoft Corp.
+MSFT
+28.11
+	 Balance Factor: 1Value: NVIDIA
+NVDA
+548.58
+	 Balance Factor: 0Value: Sony
+SNE
+105.81
+	 Balance Factor: 0Value: Tesla
+TSLA
+564.33
+	 Balance Factor: 0
