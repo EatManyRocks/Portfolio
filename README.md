@@ -1,5 +1,5 @@
 ## Projects I've worked on
-- [Witch48](https://github.com/BigOnake/witch48)
+- [Witch48](https://github.com/BigOnake/witch48) <br/>
   (Game developed for Webster University's 48-hour media contest; Won best game)
-- [Super Ultra Mega Sonic Bouncy Ball](https://github.com/BigOnake/Bounce-WH-24)
+- [Super Ultra Mega Sonic Bouncy Ball](https://github.com/BigOnake/Bounce-WH-24) <br/>
   (Game developed for the Webster CompSci Club's hackathon; Won best game hack)
