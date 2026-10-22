@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Untitled</title>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+
+  <body>
+    <form action="php/submit.php" method="post">
+      <p>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="username" placeholder="Enter your name" maxlength="50">
+      </p>
+      <p>
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="userphone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="xxx-xxx-xxxx" maxlength="13">
+      </p>
+      <p>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="useremail" placeholder="Enter your email address">
+      </p>
+      <p>
+        <input type="submit" value="submit">
+      </p>
+    </form>
+  </body>
+
+</html>
